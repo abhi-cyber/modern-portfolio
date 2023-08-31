@@ -2,7 +2,6 @@ import Head from "next/head";
 import Email from "@/components/Email";
 import Loader from "@/components/Loader";
 import SocialIcons from "@/components/SocialIcons";
-import Footer from "@/sections/Footer";
 import Hero from "@/sections/Hero";
 import Navbar from "@/sections/Navbar";
 import React, { useState } from "react";
@@ -23,7 +22,7 @@ function Index() {
   return (
     <div className="app">
       <Head>
-        <title>Kishan Sheth</title>
+        <title>Abhiraj Chatrath</title>
         <link rel="shortcut icon" href="/favicon.ico" />
       </Head>
       {showContent && (
@@ -38,7 +37,6 @@ function Index() {
             <Projects />
             <Contact />
           </main>
-          <Footer />
         </>
       )}
       <Loader isLoading={isLoading} setIsLoading={handleLoaderLoaded} />
