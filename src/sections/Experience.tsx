@@ -14,11 +14,11 @@ function Experience() {
 
   const expereinces = [
     {
-      name: "Deep Eigen",
+      name: "Swaayatt Robotics",
       role: "Full Stack Developer",
-      url: "https://www.deepeigen.com/",
+      url: "http://www.swaayattrobots.com/",
       start: "May 2023",
-      end: "Present",
+      end: "August 2023",
       shortDescription: [
         " Created a Django-based appointment system, simplifying the scheduling of appointments for new recruits and improving internal coordination.",
         "Collaborated on front-end development for the Swaayatt website, enhancing user interface and overall user experience.",
