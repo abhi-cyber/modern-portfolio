@@ -25,6 +25,18 @@ function Experience() {
         "Worked alongside cross-functional teams to gather requirements and ensure seamless integration of systems, contributing to efficient project execution.",
       ],
     },
+    {
+      name: "GFG CUIT",
+      role: "Teach Team Co-ordinator",
+      url: "https://gfg-frontend.vercel.app/",
+      start: "June 2022",
+      end: "Present",
+      shortDescription: [
+        "Collaborated on the development and launch of the GFG Club website, contributing to its improved online presence and accessibility.",
+        "Actively engaged in tech hackathons, demonstrating a commitment to fostering innovation and teamwork within the club.",
+        "Participated in knowledge-sharing sessions, workshops, and tech-related events, contributing to the growth of the tech community and enhancing personal skills.",
+      ],
+    },
   ];
   return (
     <motion.div
