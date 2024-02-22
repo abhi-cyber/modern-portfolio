@@ -21,7 +21,7 @@ function Projects() {
     {
       image: "/project2.png",
       projectName: "Realtime Chat App",
-      projectLink: "https://blitz-chat.netlify.app/login",
+      projectLink: "https://blitz-chat.netlify.app/",
       projectDescription:
         "This is a chat app made with React and Node.js that sends real-time messages and is highly scalable. It uses advanced JavaScript concepts like debouncing and is optimized for React.",
       projectTech: [
