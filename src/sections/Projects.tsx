@@ -34,7 +34,7 @@ function Projects() {
       ],
       projectExternalLinks: {
         github: "https://github.com/abhi-cyber/Blitz-Chat",
-        externalLink: "https://blitz-chat.netlify.app/login",
+        externalLink: "https://blitz-chat.netlify.app/",
       },
     },
     {
