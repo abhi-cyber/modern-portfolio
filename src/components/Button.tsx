@@ -1,9 +1,9 @@
 import Link from "next/link";
 import React from "react";
 
-function Button({ text, link }: { text: string; link: string }) {
+function Button({ text, link, download }: { text: string; link: string; download?: boolean }) {
   return (
-    <Link className="btn" href={link}>
+    <Link className="btn" href={link} download={download}>
       {text}
     </Link>
   );
