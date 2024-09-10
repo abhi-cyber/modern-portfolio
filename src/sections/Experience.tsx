@@ -14,6 +14,19 @@ function Experience() {
 
   const expereinces = [
     {
+      name: "CareFi",
+      role: "Full Stack Developer Intern",
+      url: "https://carefi.in/",
+      start: "April 2024",
+      end: "Present",
+      shortDescription: [
+        "Engineered a high-performance caching system, improving data retrieval speed by 40% and overall application per- formance.",
+        "Developed and integrated a PDF filler and editor feature, enhancing document processing efficiency by 30%.",
+        "Led UI/UX improvements, resulting in a 25% increase in user engagement and positive feedback.",
+        "Contributed to both frontend and backend development, gaining extensive experience with production systems and agile methodologies.",
+      ],
+    },
+    {
       name: "Swaayatt Robotics",
       role: "Full Stack Developer",
       url: "http://www.swaayattrobots.com/",
