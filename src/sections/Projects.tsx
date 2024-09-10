@@ -49,6 +49,18 @@ function Projects() {
         externalLink: "https://mealtogo-launch.netlify.app/",
       },
     },
+    {
+      image: "/project4.png",
+      projectName: "LMS Education Site",
+      projectLink: "https://lms-project-sage-phi.vercel.app/",
+      projectDescription:
+        "Engineered a full-stack solution using Next.js, React, and Node.js. Integrated Stripe for payments and Prisma with MySQL for data management. Deployed on Vercel, resulting in a 30% improvement in course completion rates.",
+      projectTech: ["React", "Next.js", "Node.js", "Stripe", "Prisma", "Vercel"],
+      projectExternalLinks: {
+        github: "https://github.com/abhi-cyber/lms-project",
+        externalLink: "https://lms-project-sage-phi.vercel.app/",
+      },
+    },
   ];
   return (
     <div className="projects" id="work">
